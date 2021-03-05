@@ -1,6 +1,11 @@
 # HTTP
- With HTTP you can host websites on localhost
+ you can use HTTP to create websites on localhost.<br>if you want then you can use ngrok/pgrokpagekite to make your website for everyone
 <h1>Editing The Code</h1>
-just download source code and edit at but you must have Node.js installed<br>To compile it use "npm run compile"
+just download source code and edit<br>To compile it use "npm run compile"
+<h1>Requirements</h1>
+Edit code:<br>    ●Node.js<br>●Express<br>●readline<br>●dotenv
+Use:<br>●None
+<h1>Change Port</h1>
+just create ".env" file and inside it write "port=port what you want"
 <h1>About</h1>
 This is a host software made by Kuba (Kuba#7283 on discord)
