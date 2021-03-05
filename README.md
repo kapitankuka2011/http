@@ -1,5 +1,4 @@
-# http
- <center><h1>HTTP<h1>
+# HTTP
  With HTTP you can host websites on localhost
 <h1>Editing The Code</h1>
 just download source code and edit at but you must have Node.js installed<br>To compile it use "npm run compile"
