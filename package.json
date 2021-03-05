@@ -1,0 +1,16 @@
+{
+  "name": "http-server",
+  "version": "1.0.0",
+  "description": "A http server app mode by node.js",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js",
+    "build": "nexe main.js",
+    "compile": "nexe main.js"
+  },
+  "author": "kuba",
+  "license": "ISC",
+  "dependencies": {
+    "nexe": "^4.0.0-beta.18"
+  }
+}
