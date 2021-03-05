@@ -1,5 +1,5 @@
 # HTTP
- you can use HTTP to create websites on localhost.<br>if you want then you can use ngrok/pgrokpagekite to make your website for everyone
+ you can use HTTP to create websites on localhost.<br>if you want then you can use ngrok/pgrok/pagekite to make your website for everyone
 <h1>Editing The Code</h1>
 just download source code and edit<br>To compile it use "npm run compile"
 <h1>Requirements</h1>
